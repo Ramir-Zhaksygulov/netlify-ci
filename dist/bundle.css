@@ -1,0 +1,13 @@
+.header {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: aqua;
+}
+
+.header_title {
+  font-size: 3rem;
+  color: blueviolet;
+}
+
+.header__text {
+  font-size: 20px;
+}
